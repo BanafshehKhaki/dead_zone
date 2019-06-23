@@ -15,7 +15,7 @@ Script RNN_GRU
 
 
 Script check weights
-- records weights during each epoch for checking. 
+- check weights recorded during each epoch from RNN_GRU.py. 
 
 Script fft_viz.py
 - creatign FFT vis of data
